@@ -7,3 +7,5 @@ In this machine learning project, the goal is to predict credit score based on b
 The most joyful part is many libraries that allows to analize tree based models
 ![Example1](https://github.com/VolkhinD/Credit_Score/blob/main/download.png)
 
+![Example2](https://github.com/VolkhinD/Credit_Score/blob/main/tree_structure.svg)
+
